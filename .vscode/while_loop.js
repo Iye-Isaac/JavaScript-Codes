@@ -1,5 +1,5 @@
 var num=1;
-while (num<6){
+while (true){
     console.log(num);
     num++;
 }
