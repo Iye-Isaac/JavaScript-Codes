@@ -8,3 +8,4 @@ function multiplication(n) {
 
 const output = multiplication(2);
 console.log("Multiplication Table:\n" + output);
+ 
